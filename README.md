@@ -1,3 +1,5 @@
+PAINEL PRÊMIO OCEANOS
+
 Análises Realizadas e Justificativas
 Visão Painel Geral:
 - KPI’s com as quantidades totais de: Autores, Inscritos, Jurados, Livros e Editoras. Servindo um resumo ao usuário do que será detalhado nas páginas a seguintes;
