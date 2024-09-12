@@ -35,6 +35,10 @@ Visão Livros:
 
 ![image](https://github.com/user-attachments/assets/ca92994b-c2f3-43b8-b3af-2d169ecc59a7)
 
+Modelo de Dados:
+![image](https://github.com/user-attachments/assets/1700f2c0-a1f6-48dd-ba9c-394ce15ebdb3)
+
+
 Link do projeto no Power BI: https://app.powerbi.com/view?r=eyJrIjoiZjQ0MDViNDItZGNhMC00MDA4LWJlYzUtMzZlYjIzZTk3MGY0IiwidCI6ImZkMDczNzRhLWQxMWItNDFkZS1iMGY3LTJlOTJkNTgzNzM5OSJ9
 
 
